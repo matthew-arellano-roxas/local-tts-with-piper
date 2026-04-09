@@ -16,7 +16,7 @@ Both model files should stay in the same folder as the Python scripts.
 
 Download the voice files for `en_US-amy-medium` from Hugging Face:
 
-- Model page: `https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/amy/medium`
+- Model page: [Hugging Face - en_US-amy-medium](https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/amy/medium)
 - `en_US-amy-medium.onnx`
 - `en_US-amy-medium.onnx.json`
 
